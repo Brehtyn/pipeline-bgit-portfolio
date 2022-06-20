@@ -1,7 +1,7 @@
 ---
     deployment:
         tasks:
-            - export DEPLOYPATH=/home/bgitibigital/public_html/
+            - export DEPLOYPATH=/home/bgitbrentynnet/public_html/
             - /bin/cp -R dist/_nuxt $DEPLOYPATH
             - /bin/cp -R dist/about $DEPLOYPATH
             - /bin/cp -R dist/assets $DEPLOYPATH
