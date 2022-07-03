@@ -1,5 +1,8 @@
-# Bigital's Portfolio Deployment Pipeline
-Currently it is easier for me to build my Nuxt portfolio with 
+# DEPRECATED
+This project is no longer maintained.
+
+# Bigital v1's Deployment Pipeline
+Currently it is easier for to build with 
 
 ```bash
 $ npm run generate
